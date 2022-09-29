@@ -1,2 +1,2 @@
-# BPTN-Bootcamp
-3 month coding bootcamp
+# OBSIDI
+3 month coding bootcamp BPTN x TD
